@@ -1,0 +1,5 @@
+theme: jekyll-theme-cayman
+title: Xin Yin
+description: [Where Best Android Software Are Built]
+plugins:
+  - jemoji
